@@ -1,1 +1,1 @@
-# SuperBowl-Predictor
+# Improved Hash Functions
